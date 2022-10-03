@@ -76,3 +76,4 @@ You agree that we may at any time, revoke your access to our service temporarily
 
 - Official Support Server: https://discord.gg/gyFhHHdJSu
 - Directly via Discord: Entführerbanane#2556
+- Email: support@banane.dev
